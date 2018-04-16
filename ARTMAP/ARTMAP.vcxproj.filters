@@ -43,5 +43,11 @@
     <None Include="te_output.dat">
       <Filter>Resource Files</Filter>
     </None>
+    <None Include="test.csv">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="train.csv">
+      <Filter>Resource Files</Filter>
+    </None>
   </ItemGroup>
 </Project>

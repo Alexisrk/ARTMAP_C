@@ -166,10 +166,16 @@
     <None Include="output.dat">
       <DeploymentContent>true</DeploymentContent>
     </None>
+    <None Include="test.csv">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
     <None Include="te_input.dat">
       <DeploymentContent>true</DeploymentContent>
     </None>
     <None Include="te_output.dat">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="train.csv">
       <DeploymentContent>true</DeploymentContent>
     </None>
   </ItemGroup>
